@@ -1,0 +1,91 @@
+{
+    "name" : "الاسم",
+    "Name" : "الاسم",
+    "Email" : "البريد الالكترونى",
+    "Password" : "الرقم السرى",
+    "Users":"المستخدمين",
+"Roles":"الصلاحيات",
+    "slug" : "اختصار",
+    "Subtitle":"عنوان مصغر",
+    "Slug" : "اختصار",
+    "Posts": "المقالات",
+    "Post": "مقال",
+    "title" : "العنوان",
+    "subtitle" : "نبذة عن المقال",
+    "Title" : "العنوان",
+    "img" : "الصورة",
+    "Img" : "الصورة",
+    "Content" : "المحتوى",
+    "is_published" :"نشر",
+    "Category" :"قسم",
+    "Categories" :"الاقسام",
+"Meta":"الكلمات المفتاحية",
+"SEO":"محركات البحث",
+"Midea":"الملفات",
+"sub_content":"محتوى مصغر",
+"content":"المحتوى",
+"Article writer":"كاتب المقال",
+"Review the post":"مراجعه المنشور",
+"published":"تمت المراجعه",
+"Published":"منشور",
+    "Draft":"غير منشور",
+    "home":"الرئيسية",
+    "header":"الاعلى",
+    "footer":"الاسفل",
+    "description":"الوصف",
+
+    "Comments" : "التعليقات",
+    "Comment"  :"تعليق",
+    "Settings":"الاعدادات",
+    "Setting" :"اعداد",
+"Contents":"المحتوى",
+    "Tags":"العلامات",
+    "Tag":"علامة",
+    "Edit Category":"تعديل التصنيفات",
+
+    "Site Name":"اسم الموقع",
+    "Location":"الموقع الجغرافي",
+    "Logo":"لوجو الموقع",
+    "Favicon":"الايكونه المصغرة",
+    "Phone 1":"رقم الهاتف 1",
+    "Phone 2":"رقم الهاتف 2",
+    "Enter a valid phone number":"ادخل رقم هاتف صحيح",
+    "The phone number must be 11 digits and start with 0.":"رقم الهاتف يتكون من 11 رقم يبدا ب 0.",
+    "Social Media":"وسائل التواصل",
+    "Facebook":"فيسبوك",
+    "Youtube":"يتيوب",
+    "Twitter":"تويتر",
+    "Instagram":"انستجرام",
+    "Tiktok":"تيكتوك",
+
+    "All Post": "كل المقالات",
+    "increase": "في زيادة",
+
+
+    "User":"اسم المستخدم",
+    "All Users":"كل المستخدمين",
+    "All Category":"كل الاقسام",
+    "All Comments":"كل التعليقات",
+    "Post Title":"اسم المقال",
+    "User Name":"اسم المستخدم",
+
+    "Blog":"المدونة",
+
+
+    "Today":"اليوم",
+    "Last week":"الاسبوع السابق",
+    "Last month":"الشهر السابق",
+    "This year":"السنة الحاليه",
+
+
+    "Last Newss":"اخر الاخبار",
+    "Last News":"اخر خبر",
+    "Newss":"الاخبار",
+    "News":"الخبر",
+    "Basic Information":"البيانات الاساسية",
+    "Contacts":"جهات الاتصال"
+
+
+
+   
+}
